@@ -5,3 +5,5 @@ $(document).ready(function(){
     $("#myNavbar").toggleClass("collapse");
   });
 });
+
+npm install @floating-ui/dom
