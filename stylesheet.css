@@ -24,12 +24,12 @@
 
 /* Style the navbar toggle button */
 .navbar-toggle {
-  border-color: #333;
+  border-color: #000;
 }
 
 /* Style the icon bars */
 .navbar-toggle .icon-bar {
-  background-color: #fff;
+  background-color: #000;
 }
 
 /* Image Alignment */
