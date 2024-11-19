@@ -1,8 +1,8 @@
 /* Navbar */
 /* Note: Add background navbar color */
 .navbar-inverse {
-  background-color: #333;
-  border-color: #333;
+  background-color: #000;
+  border-color: #000;
 }
 
 /* Style the links inside the navigation bar */
